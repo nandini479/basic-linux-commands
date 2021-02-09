@@ -11,3 +11,5 @@
 - cat (file discription)
 ## clone the repositary 
 - git clone repositarylink
+## intialise the git
+- git init
